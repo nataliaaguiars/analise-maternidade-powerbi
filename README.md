@@ -2,6 +2,8 @@
 
 ## 🖼️ Visualização do Projeto
 ![Screenshot do Dashboard](dashboard_preview.png)
+![Screenshot do Dashboard](dashboard_2_preview.png)
+![Screenshot do Dashboard](dashboard3_preview.png)
 
 ---
 
