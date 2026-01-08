@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
+![Ferramenta](https://img.shields.io/badge/Excel-2019%2B-green)
+![Área](https://img.shields.io/badge/Área-Saúde%20Pública%20%26%20Economia-purple)
+
 # Análise de Dados: Maternidade com Power BI 📊
 
 Este projeto apresenta uma análise detalhada sobre [descreva aqui o objetivo da análise, ex: indicadores de saúde materna], utilizando o Power BI para a criação de dashboards interativos.
