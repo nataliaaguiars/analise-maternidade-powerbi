@@ -4,8 +4,9 @@
 
 # Análise de Dados: Maternidade com Power BI 📊
 
-Este projeto apresenta uma análise detalhada sobre [descreva aqui o objetivo da análise, ex: indicadores de saúde materna], utilizando o Power BI para a criação de dashboards interativos.
+Este projeto apresenta uma análise exploratória sobre o cenário da **Maternidade**, cruzando dados de **Saúde Pública e Economia**. O objetivo principal foi identificar tendências e indicadores-chave para auxiliar na tomada de decisão e compreensão do setor.
 
+Todo o processo de ETL (Extração, Transformação e Limpeza de dados) foi realizado diretamente no **Power Query** utilizando bases originadas no **Excel**, garantindo a integridade e organização das informações para o dashboard final.
 ## 🖼️ Visualização do Dashboard
 Abaixo, você pode conferir as telas principais do relatório:
 
